@@ -1,5 +1,5 @@
 sync:
 	uv sync
 
-tests:
+test:
 	uv run pytest -vv
